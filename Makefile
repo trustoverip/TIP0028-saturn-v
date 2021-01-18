@@ -36,9 +36,9 @@
 # -----------------------------------------------------------------------------
 
 # Repo Instance Specific
-REPO_NAME ?= mkdocs-material
-UPSTREAM_REPO ?= https://github.com/trustoverip/mkdocs-material.git
-DEV_SITE_PORT ?= 7500
+REPO_NAME ?= TIP0028-saturn-v
+UPSTREAM_REPO ?= https://github.com/trustoverip/TIP0028-saturn-v.git
+DEV_SITE_PORT ?= 7528
 
 # Template Repo Defaults
 TEMPLATE_REPO ?= https://github.com/trustoverip/mkdocs-material.git
