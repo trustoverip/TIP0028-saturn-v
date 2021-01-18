@@ -1,0 +1,230 @@
+<h2 id="index-saturn-v-tip">Saturn-V TIP</h2>
+<p>The <strong>Saturn-V</strong> TIP is a <a href="#https:--trustoverip.github.io-deliverables-process-work_products--recommendations">recommendation</a> of the ToIP Foundation.</p>
+<p>A <em>ToIP Interoperability Profile (TIP)</em> is a deliverable of the <a href="https://wiki.trustoverip.org/display/HOME/Technology+Stack+Working+Group">ToIP Technology Stack Working Group</a>.</p>
+<h3 id="index-audience">Audience</h3>
+<p>ToIP Layer 4 Ecosystem Projects that follow the guidance of the <a href="https://wiki.trustoverip.org/display/HOME/EFWG+Concepts+and+Workflow">ToIP Ecosystem Foundry Working Group</a> will make decisions during the <code>DEFINE</code> and <code>CREATE</code> workflow swimlanes that will allow them to articulate specific technology requirements. They can use these requirements to help in their selection of which ToIP TIP they seek to leverage.</p>
+<figure>
+<img src="https://wiki.trustoverip.org/download/attachments/66178/image007.png?version=1&amp;modificationDate=1602127966314&amp;api=v2" alt="efwg-workflow" /><figcaption>efwg-workflow</figcaption>
+</figure>
+<p>Figure 1: ToIP EFWG Workflow Swimlanes</p>
+<p>As stakeholders in a specific Ecosystem Project consider the various technology ingredients associates with a solution architecture, they may appreciate the guidance of ToIP TIPs that have formulated a very specific solution recipe containing a profile of use cases backed by technology that has been implemented and tested by a community of vendors.</p>
+<p>The Saturn-V TIP represents one such solution recipe.</p>
+<h3 id="index-name">Name</h3>
+<p>This TIP represents the next evolutionary step towards the <em>moon shot</em> known as decentralized identity. Acknowledging the <a href="https://www.cnet.com/news/spacex-splashdown-replay-see-nasa-astronauts-safely-return-to-earth-from-iss/">recently successful NASA/Space-X mission</a> that has revitalized attention to space exploration, history reveals that our early success in space was significantly aided by the <strong>Saturn V</strong> multi-stage rocket platform. The <em>Saturn V</em> three-stage rocket served as a <em>Heavy Lift Vehicle</em> for space exploration. It was the most powerful rocket that had ever flown successfully. The <em>Saturn V</em> was used in the Apollo program in the 1960s and 1970s. It also was used to launch the Skylab space station. Containing three (3) powerful fuel-stages, this massive rocket was used to propel man to the moon.</p>
+<p>Since we are in the early stages of the technology adoption lifecycle for decentralized identity, we seek a technical architecture (recipe) to bootstrap an interoperable digital trust marketplace. Analogous to the first three layers of the ToIP Technology Stack, this TIP represents an exemplar of a technical collaboration to help propel decentralized identity into mainstream adoption.</p>
+<figure>
+<img src="https://trustoverip.github.io/WP0010-toip-foundation-whitepaper/images/toip_layer4.png" alt="toip-stack" /><figcaption>toip-stack</figcaption>
+</figure>
+<p>In fact the <em>Saturn V</em> project required that three separate companies, each responsible for a separate fuel-stage, collaborated to integrate their fuel-engines into <a href="https://www.space.com/18422-apollo-saturn-v-moon-rocket-nasa-infographic.html">a single interoperable rocket platform</a> that would propel the Appolo and Skylab missions. Today, we seek to integrate technology for three ToIP Layers to achieve a common goal – <strong>help propel the adoption of digital credentials</strong>.</p>
+<h2 id="index-purpose">Purpose</h2>
+<p>Today, the decentralized identity community continues the <em>moon shot</em> started by the <em>Sovrin Foundation</em> towards self-sovereign identity. This proposal is unique as it represents a vertical interoperable stack that is already familiar to most industry participants. This proposal is effectively receiving the baton that began with the Sovrin Network and will focus on evolving that effort into a network of networks model.</p>
+<h2 id="index-conveners">Convener(s)</h2>
+<ul>
+<li>Richard Esplin</li>
+<li>Dan Gisolfi</li>
+</ul>
+<h3 id="index-stakeholders">Stakeholders</h3>
+<p>The following entities are supporters and contributors to the this TIP:</p>
+<h3 id="index-vendors">Vendors</h3>
+<ul>
+<li>esatus</li>
+<li>Evernym</li>
+<li>Main-Incubator (R&amp;D Unit of Commerzbank Group)</li>
+<li>SCOIR</li>
+</ul>
+<h3 id="index-other-contributors">Other Contributors</h3>
+<ul>
+<li>Dan Gisolfi</li>
+</ul>
+<h2 id="index-key-motivators">Key Motivators</h2>
+<p><font color='cyan'>List the reasons that triggered the proposal.</font></p>
+<ol type="1">
+<li>We need to describe an example TIP that is of interest to many in the ToIP Foundation.</li>
+<li>As the Sovrin Community transitions under the broader umbrella of the ToIP Foundation, we need a description of the architecture in which the community desires to embrace.<br />
+</li>
+<li>We need a methodology that will allow alternative TIPs to be compared to the one most familiar with many in the ToIP Foundation.</li>
+<li>We need a forum for the <a href="https://wiki.hyperledger.org/pages/viewpage.action?pageId=36734079">Indy Interop-athon</a> events that are focused on making the network of networks concepts reality of public identity utilities based on Hyperledger Indy.</li>
+</ol>
+<h2 id="use_cases-use-cases-to-be-validated">Use cases to be validated</h2>
+<p>In addition to the common business patterns associated with decentralized identity, namely <code>password-less auth</code> and <code>digital onboarding</code>, this TIP will <a href="https://sovrin.org/category/use-cases/">build on existing proof-points</a> to establish a generalized list of uses-cases that will help to demonstrate cross-industry adoption.</p>
+<h2 id="design_principles-core-principles">Core Principles</h2>
+<p>This TIP provides a set of gGuidelines for how market requirements should be translated into architecture and technology decisions.</p>
+<p>Evaluators of this TIP should look at each of these suggested design principles and consider the ramifications for supporting or not-supporting each.</p>
+<p>The vendors supporting this TIP have incorporated these design principles into their software solutions.</p>
+<h3 id="design_principles-laws-of-identity">Laws of Identity</h3>
+<p>The seven (7) principles outlined by in 2006 and captured in the ToIP Design Principle Recommendation - <a href="https://github.com/trustoverip/deliverables/blob/main/recommendations/DP0003-laws-of-identity/DP0003-laws-of-identity.md">DP0003: Laws of Identity</a> are foundational principles for this TIP.</p>
+<h3 id="design_principles-privacy-by-design">Privacy by design</h3>
+<p>The seven (7) principles outlined by in the ToIP Design Principle Recommendation - <a href="https://github.com/trustoverip/deliverables/blob/main/recommendations/DP0004-privacy-by-design/DP0004-privacy-by-design.md">DP0004: Privacy by Design</a> are foundational principles for this TIP.</p>
+<h3 id="design_principles-self-sovereign-identity-ssi">Self-sovereign identity (SSI)</h3>
+<p>This TIP is purpose built to provide the foundational infrastructure necessary to support the <a href="#https:--docs.google.com-document-d-1wquoqdtbc3jacilrvijowjrcjhtntnzk9_as9v-jwry-edit-heading=h.ws45zwyr4hfb">10 Core Principles</a> that were adopted by the <a href="http://sovrin.org">Sovrin Foundation</a> in support of SSI.</p>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 79%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Principle</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Existence</td>
+<td>Users must have an independent existence.</td>
+</tr>
+<tr class="even">
+<td>Control</td>
+<td>Users must control their identities.</td>
+</tr>
+<tr class="odd">
+<td>Access</td>
+<td>Users must have access to their own data.</td>
+</tr>
+<tr class="even">
+<td>Transparency</td>
+<td>Systems and algorithms must be transparent.</td>
+</tr>
+<tr class="odd">
+<td>Persistence</td>
+<td>Identities must be long-lived.</td>
+</tr>
+<tr class="even">
+<td>Portability</td>
+<td>Information and services about identity must be transportable.</td>
+</tr>
+<tr class="odd">
+<td>Interoperability</td>
+<td>Identities should be as widely usable as possible.</td>
+</tr>
+<tr class="even">
+<td>Consent</td>
+<td>Users must agree to the use of their identity.</td>
+</tr>
+<tr class="odd">
+<td>Minimization</td>
+<td>Disclosure of claims must be minimized.</td>
+</tr>
+<tr class="even">
+<td>Protection</td>
+<td>The rights of users must be protected.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="design_principles-decentralization-by-design">Decentralization by Design</h3>
+<p>The ToIP Design Principle Recommendation - <a href="https://github.com/trustoverip/deliverables/blob/main/recommendations/DP0005-decentralization-by-design/DP0005-decentralization-by-design.md">DP0005: Decentralization by Design</a> provides a spectrum of considerations to be considered when solution architectures are contemplating the degree of decentralization that is required.</p>
+<p>This TIP minimally specifies that the root of trust MUST be managed in a decentralized manner, preferably by one or more decentralized public identity utilities.</p>
+<p>When the technology has matured, this TIP will be modified to REQUIRE stronger decentralization technics for the root of trust by combining a decentralized ledger with <a href="https://keri.one/">Key Event Receipt Infrastructure (KERI)</a>. Refer to <a href="https://hackmd.io/@icZC4epNSnqBbYE0hJYseA/S1eUS2BQw">advancements in the Indy DID Method</a>.</p>
+<p>ENTER CONTENT HERE</p>
+<p>ENTER CONTENT HERE</p>
+<h2 id="evernym-.-interop-evernym-evernym">Evernym { #.-interop-evernym-evernym }</h2>
+<ul>
+<li><strong>Product</strong>: Verity</li>
+<li><strong>Product URL</strong>: <url to marketing info></li>
+<li><strong>Region</strong>: NA/USA</li>
+</ul>
+<h3 id="contact-info-.-interop-evernym-contact-info">Contact Info { #.-interop-evernym-contact-info }</h3>
+<ul>
+<li><strong>TIP Focal Point</strong>: Richard Esplin</li>
+<li><strong>TIP Focal Point eMail</strong>: TBD</li>
+</ul>
+<h3 id="tip-support-proclamation-.-interop-evernym-tip-support-proclamation">TIP Support Proclamation { #.-interop-evernym-tip-support-proclamation }</h3>
+<p><statement of why Vendor is supporting this TIP></p>
+<h2 id="test_plans-plans-of-record">Plans of Record</h2>
+<p>The vendors supporting this TIP have outlined test plan milestones to help interested parties to understand the state of interoperability testing.</p>
+<h3 id="test_plans-wave-1">Wave 1</h3>
+<p>Our initial plan milestone will be for each vendor to demonstrate interoperability against the following:</p>
+<ol type="1">
+<li>Validation against Aries Protocol Test Suite for Aries Interop Profile v. 1.0</li>
+<li>Core Aries Interop Profile v. 1.0 - See Aries RFC 302</li>
+<li>DIDComm (did:sov)</li>
+<li>Connection</li>
+<li>Credentials</li>
+<li>Proofs</li>
+<li>Ephemeral Proofs: receive only</li>
+<li>Service decorator</li>
+<li>Needed for VC-Authn-OIDC (used by BC.gov)</li>
+<li>Transition Message Type to HTTPs: receive</li>
+<li>Aries RFC 348: Can receive messages with protocol definition of type http://didcomm.org</li>
+</ol>
+<h3 id="test_plans-wave-2">Wave 2</h3>
+<p>Our second milestone will be for each vendor to tackle the goals of AIP 2</p>
+<ul>
+<li><a href="https://github.com/hyperledger/aries-rfcs/pull/579/commits">Aries PR 579 for RFC 302 - AIP 2.0</a></li>
+<li><a href="https://docs.google.com/document/d/1Gvv0VNEfnYjJXgscxYRJ38f_KRrojNKv5hrF2t-oESM/edit">Notes AIP 2.0</a></li>
+<li><a href="#https:--docs.google.com-presentation-d-1trbanvlomrr5tjubc0u9n8bbiaahmpmtbeiyzwadbj8-edit-slide=id.p">Slide deck with current thinking</a></li>
+<li><a href="https://wiki.hyperledger.org/pages/viewpage.action?pageId=41587389">Discussion in Aries WG B 2020-12-02</a></li>
+<li><a href="https://wiki.hyperledger.org/pages/viewpage.action?pageId=41588229">Discussion in Aries WG B 2020-12-09</a></li>
+</ul>
+<h4 id="test_plans-user-stories">User Stories</h4>
+<ul>
+<li>Able to provide a proof without creating a persistent connection.
+<ul>
+<li>Out-of-Band Protocol</li>
+</ul></li>
+</ul>
+<h4 id="test_plans-other-technical-requirements">Other Technical Requirements</h4>
+<ul>
+<li>Transition Message Type to HTTPs: send/receive
+<ul>
+<li>Aries RFC 348: http://didcomm.org</li>
+</ul></li>
+</ul>
+<h4 id="test_plans-further-ideas">Further Ideas</h4>
+<ul>
+<li>Core Aries Interop Profile v. 2.0 (TBD)
+<ul>
+<li>Out Of Band</li>
+<li>DID Exchange</li>
+<li>Credential Exchange Protocols (v2)</li>
+<li>feature discovery v2</li>
+<li>mime-types (to help transition to didcomm v2)</li>
+<li>Signed attachments</li>
+</ul></li>
+<li>New MIME Types</li>
+<li>BC-Gov Test Suite</li>
+</ul>
+<h2 id="certifications-peer-certifications">Peer Certifications</h2>
+<p>This TIP leverages public peer-to-peer attestations where vendors can publicly certify their completion of interoperability testing with peer stakeholders.</p>
+<h3 id="certifications-wave-1">Wave 1</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Enterprise Agent</th>
+<th>Holder</th>
+<th>Peer Certification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>IBM</td>
+<td>Evernym</td>
+<td><a href="./interop/ibm_ea__evernym_h__pc.md">IBM(EA) :: Evernym(H)</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="certifications-wave-2">Wave 2</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Enterprise Agent</th>
+<th>Holder</th>
+<th>Peer Certification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>ENTER CONTENT HERE</p>
+<p>ENTER CONTENT HERE</p>
+<p>ENTER CONTENT HERE</p>
+<h3 id="contact_us-org-name">Org-Name</h3>
+<h4 id="contact_us-contact-1">Contact 1</h4>
+<p>Email xxxxxxxxxxxxx</p>
+<h4 id="contact_us-contact-authors">Contact Authors</h4>
+<p>Email xxxxxxxxxxx</p>
