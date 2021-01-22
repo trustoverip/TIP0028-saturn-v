@@ -1,10 +1,12 @@
 ## Evernym
 
-* __Product__: Verity
+### Products
+
+#### Verity
 * __Product URL__: https://www.evernym.com/products/#verity
 * __Region__: Global
 
-* __Product__: Connect.Me
+#### Connect.Me
 * __Product URL__: https://www.evernym.com/products/#connectme
 * __Region__: Global
 
