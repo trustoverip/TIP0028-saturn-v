@@ -21,6 +21,8 @@ This repo manages the development and maintenance of the subject ToIP deliverabl
     * [Standalone Markdown](./publish/TIP0028-saturn-v.md)
 
 ## Contributor's Guide
+Project collaboration and coordination happens in the [project wiki](https://github.com/trustoverip/TIP0028-saturn-v/wiki).
+
 Documentation and Specification contributors should familiarize themselves with the [Authoring Process](https://github.com/trustoverip/TIP0028-saturn-v/blob/main/DEV_README.md).
 
 ## Related Resources
