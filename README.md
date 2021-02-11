@@ -9,7 +9,7 @@
 - Tags: #tswg, #recommendation
 
 ## Summary
-This is the first TIP proposal under the TSWG and it represents the next evolutionary step towards the moon shot known as decentralized identity. Building on the groundwork established in the Sovrin Community, this TIP seeks to integrate technology for three ToIP Layers to achieve a common goal -- _help propel the adoption of digital credentials_.
+This is the first TIP proposal under the [Trust over IP Technical Stack Working Group](https://wiki.trustoverip.org/display/HOME/Technology+Stack+Working+Group) (TSWG) and it represents the next evolutionary step towards the moon shot known as decentralized identity. Building on the groundwork established in the Sovrin Community, this TIP seeks to integrate technology for three ToIP Layers to achieve a common goal -- _help propel the adoption of digital credentials_.
 
 ## Purpose
 This repo manages the development and maintenance of the subject ToIP deliverable. It contains the tools necessary to generate multiple renderings formats.

@@ -38,7 +38,7 @@ nav:
 - 'Use Cases': 'use_cases.md'
 - 'Design Principles': 'design_principles.md'
 - Features:
-    - 'Feasture 1': 'placeholder.md'
+    - 'Feature 1': 'placeholder.md'
 - Best Practices:
     - 'BP 1': 'placeholder.md'
 - 'Solution Architecture': 'tech_stack.md'
