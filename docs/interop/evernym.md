@@ -11,7 +11,7 @@
 
 | Product Type | Product Name |
 | --- | --- |
-| Mobile App | [Connect.Me](https://www.evernym.com/products/#connectme) |
+| Mobile Wallet | [Connect.Me](https://www.evernym.com/products/#connectme) |
 | Enterprise Agency | [Verity](https://www.evernym.com/products/#verity) |
 
 ### TIP Support Proclamation
