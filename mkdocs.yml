@@ -44,6 +44,7 @@ nav:
 - 'Solution Architecture': 'tech_stack.md'
 - Stakeholders:
     - 'Evernym': './interop/evernym.md'
+    - 'Lissi': './interop/lissi.md'
 - Interoperability Testing:
     - 'Test Plans': 'test_plans.md'
     - 'Certifications': 'certifications.md'
