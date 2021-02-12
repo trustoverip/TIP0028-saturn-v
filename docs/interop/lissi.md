@@ -12,7 +12,7 @@
 
 | Product Type | Product Name |
 | --- | --- |
-| Mobile App | [Lissi Wallet](https://lissi.id/mobile) |
+| Mobile Wallet | [Lissi Wallet](https://lissi.id/mobile) |
 | Enterprise Agency | [Lissi Institutional](https://lissi.id/institutions) |
 
 ### TIP Support Proclamation
