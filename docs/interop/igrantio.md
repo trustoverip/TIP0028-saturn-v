@@ -1,4 +1,4 @@
-## Evernym
+## iGrant.io
 
 ### Products
 
