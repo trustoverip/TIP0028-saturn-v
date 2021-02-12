@@ -45,6 +45,8 @@ nav:
 - Stakeholders:
     - 'Evernym': './interop/evernym.md'
     - 'IBM': './interop/ibm.md'
+    - 'iGrant.io': './interop/igrantio.md'
+    - 'Lissi': './interop/lissi.md'
 - Interoperability Testing:
     - 'Test Plans': 'test_plans.md'
     - 'Certifications': 'certifications.md'
