@@ -35,9 +35,11 @@ copyright: >-
 # Navigation structure
 nav:
 - 'Introduction': 'index.md'
-    - 'Solution Architecture': 'tech_stack.md'
+    - 'Audience': 'audience.md'
+    - 'Motivation': 'motivation.md'
 - 'Use Cases': 'use_cases.md'
 - 'Design Principles': 'design_principles.md'
+- 'Solution Architecture': 'tech_stack.md'
 - Stakeholders:
     - 'Evernym': './interop/evernym.md'
     - 'IBM': './interop/ibm.md'
