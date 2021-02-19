@@ -36,6 +36,7 @@ copyright: >-
 nav:
 - Introduction:
     - 'Synopsis': 'index.md'
+    - 'Purpose': 'purpose.md'
     - 'Audience': 'audience.md'
     - 'Motivation': 'motivation.md'
 - 'Use Cases': 'use_cases.md'
