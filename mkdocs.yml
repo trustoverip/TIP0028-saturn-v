@@ -34,7 +34,8 @@ copyright: >-
 
 # Navigation structure
 nav:
-- 'Introduction': 'index.md'
+- Introduction:
+    - 'Synopsis': 'index.md'
     - 'Audience': 'audience.md'
     - 'Motivation': 'motivation.md'
 - 'Use Cases': 'use_cases.md'
