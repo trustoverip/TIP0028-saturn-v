@@ -1,13 +1,13 @@
 ### Technical Stack Proposal
-<font color='cyan'>Identify the technologies associated with each layer of the ToIP Stack that will help to define this TIP.</font>
+<font color='blue'>We MUST define why these ingredients are desirable to our recipe.
+
+Identify the technologies associated with each layer of the ToIP Stack that will help to define this TIP.</font>
 
 | ToIP Technical Stack Layer | TIP Technology |
 | --- | --- |
 | Three | Hyperledger Aries |
 | Two | Hyperledger Aries with DIDComm |
 | One | Hyperledger Indy |
-
-![tech-stack](./images/tech-stack-concepts.png)
 
 The vendors supporting this TIP have agreed to support the following solution components:
 

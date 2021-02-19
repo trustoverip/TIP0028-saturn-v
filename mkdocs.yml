@@ -35,12 +35,10 @@ copyright: >-
 # Navigation structure
 nav:
 - 'Introduction': 'index.md'
+    - 'Audience': 'audience.md'
+    - 'Motivation': 'motivation.md'
 - 'Use Cases': 'use_cases.md'
 - 'Design Principles': 'design_principles.md'
-- Features:
-    - 'Feature 1': 'placeholder.md'
-- Best Practices:
-    - 'BP 1': 'placeholder.md'
 - 'Solution Architecture': 'tech_stack.md'
 - Stakeholders:
     - 'Evernym': './interop/evernym.md'
@@ -50,9 +48,6 @@ nav:
 - Interoperability Testing:
     - 'Test Plans': 'test_plans.md'
     - 'Certifications': 'certifications.md'
-- Marketplace Adoption:
-    - 'Case studies':  'placeholder.md'
-    - 'Metrics':  'placeholder.md'
 - Help:
     - 'FAQ': 'faq.md'
     - 'Contact us': 'contact_us.md'
