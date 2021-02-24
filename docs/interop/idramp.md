@@ -1,7 +1,7 @@
 ### Organization
 
 * __Region__: Global
-* __Details__: [About us](https://idramp.com/)
+* __Details__: [About us](https://idramp.com/decentralized-identity-platform/)
 
 ### Contact Info
 * __TIP Focal Point__:  IdRamp Team
