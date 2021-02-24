@@ -44,7 +44,7 @@ nav:
 - 'Solution Architecture': 'tech_stack.md'
 - Stakeholders:
     - 'Evernym': './interop/evernym.md'
-    - 'esatus' './interop/esatus.md'
+    - 'esatus': './interop/esatus.md'
     - 'IBM': './interop/ibm.md'
     - 'IdRamp': './interop/idramp.md'
     - 'iGrant.io': './interop/igrantio.md'
