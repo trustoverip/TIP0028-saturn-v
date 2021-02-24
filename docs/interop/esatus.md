@@ -13,7 +13,9 @@
 | Product Type | Product Name |
 | --- | --- |
 | Mobile Wallet | [esatus Wallet](https://self-ssi.com/en/#walletc) |
-| Enterprise Agency | [<product name>](https://self-ssi.com/en/) |
+| Enterprise Agency | [esatus SeLF](https://self-ssi.com/en/) |
 
 ### TIP Support Proclamation
-<statement of why Vendor is supporting this TIP>
+We at esatus consider strong trust relationships as vital for enabling digital business models. For successful practical operation, vendor interoperability will be key. We are fully supportive of ToIP’s goal to achieve interoperability on an international scale. As one of the founding and steering members, esatus will also focus on strengthening ToIP’s position in Europe.
+
+esatus enterprise solutions employ digital trust components already, making next-generation security and privacy available to its customers today. 
