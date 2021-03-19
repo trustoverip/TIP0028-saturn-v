@@ -6,7 +6,7 @@ These are some tips when developing interop tests. Some are tied to certains too
 
 #### Sovrin staging 
 
-A very useful tool to check Sovrin Staging is the Indyscan. You can check registered DID by selecting "NYM", check registered schemas by selecting "SCHEMA" and check credential definitions by selecting "CLAIM_DEF". In some circumstances when registering a new schema IF the schema version is the same as the old one you will not be able to register using the same version number. Important to bump up the version number.
+A very useful tool to check Sovrin Staging is the [Indyscan](https://indyscan.io/txs/SOVRIN_STAGINGNET/domain). You can check registered DID by selecting "NYM", check registered schemas by selecting "SCHEMA" and check credential definitions by selecting "CLAIM_DEF". In some circumstances when registering a new schema IF the schema version is the same as the old one you will not be able to register using the same version number. Important to bump up the version number.
 
 ![](images/tools_indyscan.png)
 
